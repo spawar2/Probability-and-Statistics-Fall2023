@@ -1,0 +1,5 @@
+Using following COVID data:
+
+https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
+
+Calculate one way ANOVA for "total_cases" vs "new_cases" and find F stat value, save the output in R program in-class-assignment-2.R and upload to Github. 
