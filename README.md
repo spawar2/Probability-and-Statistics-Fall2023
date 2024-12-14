@@ -8,3 +8,4 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 T-test.R: T-test analysis and line plot.
 selected function(mlv, library, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot). StdevVStrerror.PNG
 Normal distribution: T-test.pdf
+![download](https://github.com/user-attachments/assets/06069ae1-dce9-4151-a145-67a12322374e)
