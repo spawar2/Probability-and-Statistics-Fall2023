@@ -6,7 +6,7 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6), United States of America (USA).
 [R: ggpubr, tidyverse, datarium, dplyr].
 T-test.R: T-test analysis and line plot.
-selected function(mlv, library, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot). StdevVStrerror.PNG
+selected function(mlv, library, ggscatter, cor.test, glimpse(df), mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot). StdevVStrerror.PNG
 Normal distribution: T-test.pdf
 ![download](https://github.com/user-attachments/assets/06069ae1-dce9-4151-a145-67a12322374e)
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
